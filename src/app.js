@@ -6,5 +6,5 @@ import AWS from 'aws-sdk/global';
 import PubSub from "@aws-amplify/pubsub";
 
 export {
-    API, graphqlOperation, Auth, Amplify, AWS, PubSub, Storage
+    API, graphqlOperation, Auth, Amplify, AWS, Storage, PubSub
 };
