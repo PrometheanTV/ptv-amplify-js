@@ -1,11 +1,11 @@
 {
   "name": "amplify-js-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Amplify JavaScript Example",
   "dependencies": {
     "@aws-amplify/api": "^2.2.0",
     "@aws-amplify/auth": "^2.1.7",
-    "@aws-amplify/pubsub": "^3.2.14",
+    "@aws-amplify/pubsub": "^2.1.9",
     "@aws-amplify/storage": "^2.2.3"
   },
   "devDependencies": {
